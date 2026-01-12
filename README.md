@@ -44,7 +44,7 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KuldeepLakhera9&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=KuldeepLakhera9&show_icons=true&theme=tokyonight&cache_seconds=1800" />
 </p>
 
 <p align="center">
@@ -58,14 +58,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KuldeepLakhera9&layout=compact&theme=tokyonight" />
 </p>
 
----
-
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=KuldeepLakhera9&theme=darkhub&row=1&margin-w=15" />
-</p>
-
----
 
 ## 🐍 Contribution Snake
 <p align="center">
