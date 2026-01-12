@@ -1,24 +1,86 @@
-# 💫 About Me:
-Computer Science undergraduate <br>MERN Stack Developer<br>Java & DSA<br>Focused on internships & real-world projects<br>
+<h1 align="center">Hi 👋, I'm Kuldeep Lakhera</h1>
+<h3 align="center">3rd Year B.Tech CSE | MERN Stack Developer</h3>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/kuldeep-lakhera-a78373290/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Kuldeep%20Lakhera-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://github.com/KuldeepLakhera9" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-KuldeepLakhera9-black?style=for-the-badge&logo=github" />
+  </a>
+</p>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kuldeeplakhera_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Kuldeep Lakhera) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kuldeeplakhera018@gmail.com) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=KuldeepLakhera9&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=KuldeepLakhera9&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=KuldeepLakhera9&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=KuldeepLakhera9&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=KuldeepLakhera9&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=KuldeepLakhera9&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=KuldeepLakhera9&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 About Me
+- 🎓 3rd Year **B.Tech Computer Science** student  
+- 💻 Passionate **MERN Stack Developer**  
+- 🧠 Currently learning **DSA + System Design basics**  
+- 🎯 Goal: **High-quality internship & placement**  
+- 🔥 Believe in *consistency over motivation*
+
+---
+
+## 🛠️ Tech Stack
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,git,github,bootstrap" />
+</p>
+
+---
+
+## 📌 Featured Projects
+- 🔹 **Campus Knowledge Vault** – Academic knowledge sharing platform  
+- 🔹 **BurnSense** – Emotional burnout detection using mobile usage patterns  
+- 🔹 **MERN Auth System** – Authentication with sessions & JWT  
+- 🔹 **SQL + Mongo Practice Projects**
+
+📍 *Check pinned repositories below ⬇️*
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KuldeepLakhera9&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KuldeepLakhera9&theme=tokyonight" />
+</p>
+
+---
+
+## 📈 Top Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KuldeepLakhera9&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=KuldeepLakhera9&theme=darkhub&row=1&margin-w=15" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+<p align="center">
+  <img src="https://github.com/KuldeepLakhera9/KuldeepLakhera9/blob/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## 📫 Connect With Me
+<p align="left">
+  <a href="https://www.linkedin.com/in/kuldeep-lakhera-a78373290/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" />
+  </a>
+</p>
+
+---
+
+⭐ *Code • Learn • Build • Repeat*
