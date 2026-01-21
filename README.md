@@ -38,7 +38,6 @@
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=KuldeepLakhera9&show_icons=true&theme=github_dark" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=KuldeepLakhera9&theme=github_dark" />
 </p>
 
 
