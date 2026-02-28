@@ -8,7 +8,7 @@
   <a href="https://leetcode.com/kuldeep_lakhera/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?logo=leetcode&logoColor=black&style=for-the-badge" />
   </a>
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:kuldeeplakhera018@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-red?logo=gmail&style=for-the-badge" />
   </a>
 </p>
@@ -19,17 +19,17 @@
 
 🎓 3rd Year B.Tech Computer Science Student  
 💻 Full Stack Developer (MERN Stack)  
-🧠 Actively solving Data Structures & Algorithms problems  
+🧠 Actively practicing Data Structures & Algorithms  
 🏆 Hackathon Participant  
-🎯 Targeting high-impact Internship & Placement opportunities  
+🎯 Target: High-quality Internship & Placement  
 
-I enjoy building scalable web applications and solving real-world problems using clean and efficient code.
+I focus on building scalable web applications and strengthening problem-solving skills through consistent DSA practice.
 
 ---
 
 ## 🛠 Technical Skills
 
-### 💻 Programming Languages
+### 💻 Programming
 - JavaScript  
 - C++  
 - SQL  
@@ -42,38 +42,39 @@ I enjoy building scalable web applications and solving real-world problems using
 - MongoDB  
 - MySQL  
 
-### ⚙️ Tools & Platforms
+### ⚙️ Tools
 - Git & GitHub  
 - VS Code  
 - Postman  
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Current Project
 
-### 🔹 Campus Knowledge Vault
-Academic resource sharing platform for students with structured content access and authentication.
-
-### 🔹 BurnSense
-Emotional burnout detection system using behavioral pattern analysis.
-
-### 🔹 MERN Authentication System
-Secure authentication system using JWT and Role-Based Access Control.
+### 🔹 AI Career Path Generator *(In Progress)*
+An intelligent platform that analyzes user skills, interests, and experience to generate personalized career roadmaps, skill recommendations, and learning paths using AI-based logic.
 
 ---
 
-## 📊 GitHub Statistics
+## 📌 Completed Projects
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=KuldeepLakhera9&show_icons=true&theme=default" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KuldeepLakhera9&layout=compact&theme=default" />
-</p>
+### 🔹 Online Banking Management System
+A secure banking system with authentication, account management, transaction processing, and role-based access control.
+
+### 🔹 User Management System
+Full-stack application implementing secure authentication, authorization, and complete CRUD functionality.
+
+### 🔹 Amazon Clone
+E-commerce web application featuring product listings, shopping cart, authentication, and order workflow.
+
+### 🔹 Spotify Clone
+Responsive music streaming UI clone with dynamic media controls and interactive design.
 
 ---
 
-## 🧩 DSA Progress
+## 🧩 LeetCode Progress
 
-Consistently solving problems on LeetCode to strengthen problem-solving and algorithmic thinking.
+Consistently solving problems to improve data structures, algorithms, and interview readiness.
 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/kuldeep_lakhera?theme=light&font=Baloo&ext=heatmap" />
@@ -81,22 +82,12 @@ Consistently solving problems on LeetCode to strengthen problem-solving and algo
 
 ---
 
-## 📌 Current Focus
+## 📫 Connect With Me
 
-- Strengthening Data Structures & Algorithms  
-- Building production-level MERN applications  
-- Preparing for Internship & Placement Interviews  
-
----
-
-## 📫 Let's Connect
-
-If you're interested in collaboration, internships, or technical discussions, feel free to connect.
-
-📧 your-email@example.com  
+📧 kuldeeplakhera018@gmail.com  
 🔗 LinkedIn: https://www.linkedin.com/in/kuldeep-lakhera-a78373290/  
 💻 LeetCode: https://leetcode.com/kuldeep_lakhera/
 
 ---
 
-⭐ Building. Learning. Improving. Every Day.
+⭐ Building Scalable Systems | Solving Real Problems | Continuous Growth
