@@ -1,10 +1,9 @@
-<p align="center">
-  <img src="assets/profile-banner.png" alt="Kuldeep Lakhera Banner" width="100%">
-</p>
-
 <h1 align="center">👋 Hello, I'm Kuldeep Lakhera!</h1>
 <p align="center">
   <strong>B.Tech Final Year Student @ CSE | Full Stack Developer | DSA Practitioner</strong>
+</p>
+<p align="center">
+  <em>"Ctrl + C, Ctrl + V: Proud sponsors of my B.Tech degree."</em> 🎓⚡
 </p>
 
 <p align="center">
@@ -23,7 +22,7 @@
 
 ## 👨‍💻 About Me
 
-I am a highly motivated **B.Tech Computer Science & Engineering Final Year Student** with a strong interest in software engineering and web development. I love building scalable applications and solving complex algorithmic challenges.
+I am a highly motivated **B.Tech Computer Science & Engineering Final Year Student** with a strong focus on software engineering and web development. I love building scalable applications and solving complex algorithmic challenges.
 
 * 🎓 **Education:** Final Year B.Tech in Computer Science & Engineering
 * 💻 **Specialization:** Full Stack Web Development (MERN Stack)
@@ -106,6 +105,18 @@ I am a highly motivated **B.Tech Computer Science & Engineering Final Year Stude
 
 ---
 
+## 💬 Cheesy Dev Bytes & Punch Lines
+
+> [!TIP]
+> **A day in the life of a developer...**
+> - 🕵️‍♂️ **Debugging:** Being the detective in a crime movie where you are also the murderer.
+> - 💔 **Git Commit:** In a committed relationship, yet constantly dealing with conflicts.
+> - ☕ **Code Fuel:** I convert coffee into readable syntax (and unexplainable bugs).
+> - 🍻 **SQL Humour:** A SQL query walks into a bar, walks up to two tables and asks, *"Can I join you?"*
+> - 🔢 **Binary View:** There are `10` types of people in the world: those who understand binary, and those who don't.
+
+---
+
 ## 📊 Activity & Statistics
 
 <p align="center">
@@ -115,11 +126,6 @@ I am a highly motivated **B.Tech Computer Science & Engineering Final Year Stude
 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/kuldeep_lakhera?theme=light&font=Baloo&ext=heatmap" alt="LeetCode Stats" width="97%" />
-</p>
-
-### 👾 Contribution Snake
-<p align="center">
-  <img src="https://raw.githubusercontent.com/KuldeepLakhera9/KuldeepLakhera9/output/github-snake.svg" alt="Snake Animation" />
 </p>
 
 ---
