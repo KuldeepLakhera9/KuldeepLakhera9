@@ -55,8 +55,8 @@ Dedicated to writing clean, maintainable, and efficient code, I continuously pra
 ## 📊 GitHub Activity & Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KuldeepLakhera9&show_icons=true&theme=radial&hide_border=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KuldeepLakhera9&layout=compact&theme=radial&hide_border=true" alt="Top Languages" width="48%" />
+  <img src="https://github-stats-extended.vercel.app/api?username=KuldeepLakhera9&show_icons=true&theme=radial&hide_border=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=KuldeepLakhera9&layout=compact&theme=radial&hide_border=true" alt="Top Languages" width="48%" />
 </p>
 
 ---
