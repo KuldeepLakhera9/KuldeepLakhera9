@@ -1,66 +1,196 @@
-<h1 align="center">👋 Hello, I'm Kuldeep Lakhera</h1>
-<p align="center">
-  <strong>Computer Science Undergraduate | Full Stack Developer</strong>
-</p>
+<div align="center">
+
+# ⚡ Kuldeep Lakhera
+### Software Engineer • Full-Stack & Systems Developer
+
+<a href="https://readme-typing-svg.demolab.com">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=550&lines=Full+Stack+Software+Engineer;Next.js+%7C+TypeScript+%7C+MERN+Stack;AI-Augmented+Web+Applications;DSA+Practitioner+(C%2B%2B);Building+Scalable+%26+Reliable+Systems" alt="Typing SVG" />
+</a>
+
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-kuldeeplakhera.me-0ea5e9?style=for-the-badge&logo=google-chrome&logoColor=white)](https://kuldeeplakhera.me)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kuldeep-lakhera-a78373290/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/kuldeep_lakhera/)
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kuldeeplakhera018@gmail.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=KuldeepLakhera9&color=38bdf8&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/KuldeepLakhera9)
+
+</div>
+
+---
+
+## 👨‍💻 Executive Summary
+
+I am a **B.Tech Computer Science & Engineering Final Year Student** and software engineer based in **Pune, India**, specializing in architecting performant, resilient full-stack systems and data-intensive applications. My primary expertise centers around modern web frameworks (**Next.js**, **React**, **TypeScript**, **Node.js**, **Express**) and distributed data stores (**MongoDB**, **PostgreSQL**).
+
+- 🚀 **Full-Stack Engineering:** Designing end-to-end applications with strict TypeScript typing, state management (Zustand/Redux), responsive UI architecture, and robust REST/WebSocket streaming interfaces.
+- 🧠 **Problem Solving & Core CS:** Strong foundation in **Data Structures & Algorithms in C++**, Object-Oriented Programming (OOP), Database Management Systems (DBMS), Operating Systems (OS), and Computer Networks.
+- 🤖 **AI & Emerging Technologies:** Engineering AI-augmented systems integrating Multi-LLM routing, RAG retrieval pipelines, and low-latency voice telemetry (STT/TTS).
+- 🎯 **What I'm Looking For:** Open to full-time Software Engineering roles, high-impact internships, and collaborative open-source projects where I can build impactful products at scale.
+
+---
+
+## 🚀 Featured Projects
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🎙️ <a href="https://github.com/KuldeepLakhera9/InterviewGPT">InterviewGPT</a></h3>
+      <p><strong>Production-Grade AI Mock Interview Platform</strong></p>
+      <p>A low-latency AI interview preparation SaaS platform featuring real-time speech-to-text (STT), streaming audio TTS, Monaco live code evaluation, and diagnostic telemetry scorecards.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Next.js%2014-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+        <img src="https://img.shields.io/badge/Claude%203.5-D97706?style=flat-square&logo=anthropic&logoColor=white" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🌾 <a href="https://github.com/KuldeepLakhera9/CaneTrace">CaneTrace</a></h3>
+      <p><strong>Enterprise Sugarcane Agronomy & Lifecycle Platform</strong></p>
+      <p>An agricultural data ecosystem featuring 6-digit Indian Pincode geo-resolution, automated agronomic season engines, duplicate grower detection, and executive analytics exports.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Next.js%2015-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+        <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🌿 <a href="https://github.com/KuldeepLakhera9/CropAdvisor">Crop Health Advisor</a></h3>
+      <p><strong>Agri-AI Sensory Pipeline & RAG Q&A System</strong></p>
+      <p>End-to-end data pipeline transforming raw agricultural sensor telemetry into actionable diagnostic insights using rule-based agents and context-aware RAG vector retrieval.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/RAG%20AI-FF6F00?style=flat-square&logo=openai&logoColor=white" />
+        <img src="https://img.shields.io/badge/Data%20Pipeline-0284C7?style=flat-square&logo=pandas&logoColor=white" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>✈️ <a href="https://github.com/KuldeepLakhera9/Wanderlust">Wanderlust</a></h3>
+      <p><strong>Full-Stack Travel & Hospitality Platform</strong></p>
+      <p>A feature-packed hospitality booking application featuring user authentication, property listing CRUD workflows, reviews, geospatial mapping, and responsive card layouts.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+        <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <h3>✨ <a href="https://github.com/KuldeepLakhera9/Portfolio">Personal Developer Portfolio</a></h3>
+      <p>Modern developer portfolio engineered with Next.js and smooth GSAP timeline animations, high-performance typography, and sleek dark aesthetic showcasing software engineering projects.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=black" />
+        <img src="https://img.shields.io/badge/Live-kuldeeplakhera.me-0ea5e9?style=flat-square&logo=googlechrome&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🛠️ Technical Arsenal
+
+<table>
+  <tr>
+    <td align="center" width="25%"><strong>Languages</strong></td>
+    <td>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=cpp,python,js,ts,sql,html,css" alt="Programming Languages" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="25%"><strong>Frontend & UI</strong></td>
+    <td>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux" alt="Frontend & UI" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="25%"><strong>Backend & APIs</strong></td>
+    <td>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=nodejs,express,postman" alt="Backend & APIs" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="25%"><strong>Databases & Storage</strong></td>
+    <td>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql" alt="Databases" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="25%"><strong>Tools & Platforms</strong></td>
+    <td>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" alt="Tools & Platforms" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📊 GitHub Analytics & Coding Metrics
+
+<div align="center">
+  <table border="0" style="border: none;">
+    <tr style="border: none;">
+      <td style="border: none;" align="center" width="50%">
+        <img src="https://github-stats-extended.vercel.app/api?username=KuldeepLakhera9&show_icons=true&theme=radial&hide_border=true&title_color=38bdf8&text_color=94a3b8&icon_color=818cf8" alt="GitHub Stats" width="100%" />
+      </td>
+      <td style="border: none;" align="center" width="50%">
+        <img src="https://github-stats-extended.vercel.app/api/top-langs?username=KuldeepLakhera9&layout=compact&theme=radial&hide_border=true&title_color=38bdf8&text_color=94a3b8" alt="Top Languages" width="100%" />
+      </td>
+    </tr>
+  </table>
+  
+  <br/>
+  
+  <a href="https://leetcode.com/u/kuldeep_lakhera/">
+    <img src="https://leetcard.jacoblin.cool/kuldeep_lakhera?theme=dark&font=Baloo&ext=heatmap" alt="LeetCode Stats" width="98%" />
+  </a>
+</div>
+
+---
+
+## 👾 Contribution Activity Snake
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/kuldeep-lakhera-a78373290/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn" />
-  </a>
-  <a href="mailto:kuldeeplakhera018@gmail.com">
-    <img src="https://img.shields.io/badge/Email-%23EA4335.svg?logo=gmail&logoColor=white&style=for-the-badge" alt="Gmail" />
-  </a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KuldeepLakhera9/KuldeepLakhera9/output/github-snake.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KuldeepLakhera9/KuldeepLakhera9/output/github-snake.svg" />
+    <img alt="Kuldeep's Contribution Snake Animation" src="https://raw.githubusercontent.com/KuldeepLakhera9/KuldeepLakhera9/output/github-snake.svg" width="100%" />
+  </picture>
 </p>
 
 ---
 
-## 👨‍💻 Professional Profile
+## 🤝 Let's Connect & Collaborate
 
-I am a **B.Tech Computer Science & Engineering Final Year Student** with a solid foundation in software development, full-stack technologies, and computer science core concepts. I specialize in the **MERN Stack** (MongoDB, Express.js, React, Node.js) and focus on engineering performant, scalable, and responsive web applications.
+Whether you want to discuss a new software engineering opportunity, talk system architecture, or collaborate on open-source projects, my inbox is always open!
 
-Dedicated to writing clean, maintainable, and efficient code, I continuously practice solving complex computational problems to sharpen my analytical skills. I am actively seeking full-time opportunities, internships, and collaborative projects in software engineering where I can leverage my technical skills to build real-world solutions.
+<div align="center">
 
-### 🎓 Academic & Core Focus
-* **Computer Science Fundamentals:** Proficient in Database Management Systems (DBMS), Operating Systems (OS), Computer Networks (CN), and Object-Oriented Programming (OOP) paradigms.
-* **Problem Solving:** Passionate about Data Structures & Algorithms (DSA), focusing on optimization, time/space complexity analysis, and writing robust algorithmic solutions in C++.
-* **Full Stack Development:** Experienced in building RESTful APIs, managing asynchronous execution, handling state in single-page applications, and designing responsive databases.
+[![Portfolio](https://img.shields.io/badge/Website-kuldeeplakhera.me-0ea5e9?style=for-the-badge&logo=googlechrome&logoColor=white)](https://kuldeeplakhera.me)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kuldeep_Lakhera-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kuldeep-lakhera-a78373290/)
+[![Email](https://img.shields.io/badge/Email-kuldeeplakhera018@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kuldeeplakhera018@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-KuldeepLakhera9-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KuldeepLakhera9)
 
----
+<br/>
 
-## 🛠️ Technical Skills
+<sub>⚡ <em>Engineered with passion for clean code, high performance, and continuous learning.</em> ⚡</sub>
 
-### 💻 Programming Languages
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,js,sql,html,css" alt="Languages" />
-  </a>
-</p>
-
-### 🌐 Frameworks & Databases
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,mysql" alt="Frameworks and Databases" />
-  </a>
-</p>
-
-### ⚙️ Development Tools
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" alt="Tools" />
-  </a>
-</p>
-
----
-
-## 📊 GitHub Activity & Statistics
-
-<p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=KuldeepLakhera9&show_icons=true&theme=radial&hide_border=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=KuldeepLakhera9&layout=compact&theme=radial&hide_border=true" alt="Top Languages" width="48%" />
-</p>
-
----
-
-<p align="center">
-  ⭐ <em>Building Scalable Systems | Solving Real Problems | Continuous Growth</em>
-</p>
+</div>
