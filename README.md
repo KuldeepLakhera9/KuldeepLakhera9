@@ -143,7 +143,7 @@ I am a **B.Tech Computer Science & Engineering Final Year Student** and software
 
 ---
 
-## 📊 GitHub Analytics & Coding Metrics
+## 📊 GitHub Analytics & Activity
 
 <div align="center">
   <table border="0" style="border: none;">
@@ -156,25 +156,7 @@ I am a **B.Tech Computer Science & Engineering Final Year Student** and software
       </td>
     </tr>
   </table>
-  
-  <br/>
-  
-  <a href="https://leetcode.com/u/kuldeep_lakhera/">
-    <img src="https://leetcard.jacoblin.cool/kuldeep_lakhera?theme=dark&font=Baloo&ext=heatmap" alt="LeetCode Stats" width="98%" />
-  </a>
 </div>
-
----
-
-## 👾 Contribution Activity Snake
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KuldeepLakhera9/KuldeepLakhera9/output/github-snake.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KuldeepLakhera9/KuldeepLakhera9/output/github-snake.svg" />
-    <img alt="Kuldeep's Contribution Snake Animation" src="https://raw.githubusercontent.com/KuldeepLakhera9/KuldeepLakhera9/output/github-snake.svg" width="100%" />
-  </picture>
-</p>
 
 ---
 
