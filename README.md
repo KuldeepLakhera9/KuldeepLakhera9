@@ -143,7 +143,7 @@ I am a **B.Tech Computer Science & Engineering Final Year Student** and software
 
 ---
 
-## 📊 GitHub Analytics & Activity
+## 📊 GitHub Analytics & Activity.
 
 <div align="center">
   <table border="0" style="border: none;">
