@@ -160,7 +160,7 @@ I am a **B.Tech Computer Science & Engineering Final Year Student** and software
 
 ---
 
-## 🤝 Let's Connect & Collaborate
+## 🤝 Let's Connect & Collaborate.
 
 Whether you want to discuss a new software engineering opportunity, talk system architecture, or collaborate on open-source projects, my inbox is always open!
 
