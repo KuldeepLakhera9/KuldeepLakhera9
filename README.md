@@ -1,7 +1,7 @@
 <div align="center">
 
 # ⚡ Kuldeep Lakhera
-### Software Engineer • Full-Stack & Systems Developer
+### Software Engineer • Full-Stack & Systems Developer.
 
 <a href="https://readme-typing-svg.demolab.com">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=550&lines=Full+Stack+Software+Engineer;Next.js+%7C+TypeScript+%7C+MERN+Stack;AI-Augmented+Web+Applications;DSA+Practitioner+(C%2B%2B);Building+Scalable+%26+Reliable+Systems" alt="Typing SVG" />
